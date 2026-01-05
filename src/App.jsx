@@ -1,12 +1,12 @@
-import Navbar from "./Components/Navbar";
-import Hero from "./Components/Hero";
-import Features from "./Components/Features";
-import HowItWorks from "./Components/HowItWorks";
-import Pricing from "./Components/Pricing";
-import Testimonials from "./Components/Testimonials";
-import FAQ from "./Components/FAQ";
-import FinalCTA from "./Components/finalCTA";
-import Footer from "./Components/Footer";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Features from "./components/Features";
+import HowItWorks from "./components/HowItWorks";
+import Pricing from "./components/Pricing";
+import Testimonials from "./components/Testimonials";
+import FAQ from "./components/FAQ";
+import FinalCTA from "./components/finalCTA";
+import Footer from "./components/Footer";
 
 function App() {
   return (
