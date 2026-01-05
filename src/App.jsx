@@ -11,7 +11,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <div className="scroll-smooth">
-      <Navbar />
+      <NavBar />
       <Hero />
       <Features />
       <HowItWorks />
