@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-export default function Navbar() {
+export default function NavBar() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   const scrollToSection = (sectionId) => {
