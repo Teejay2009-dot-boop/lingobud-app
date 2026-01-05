@@ -5,7 +5,7 @@ import HowItWorks from "./components/HowItWorks";
 import Pricing from "./components/Pricing";
 import Testimonials from "./components/Testimonials";
 import FAQ from "./components/FAQ";
-import FinalCTA from "./components/finalCTA";
+import FinalCTA from "./components/FinalCTA";
 import Footer from "./components/Footer";
 
 function App() {
